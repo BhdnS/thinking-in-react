@@ -1,6 +1,4 @@
-#thinking-in-react
-
-[thinking-in-react](https://bhdns.github.io/thinking-in-react/dist/index.html)
+# [thinking-in-react](https://bhdns.github.io/thinking-in-react/dist/index.html)
 
 # React + Vite
 
